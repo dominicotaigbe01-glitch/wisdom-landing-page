@@ -1,0 +1,177 @@
+.first-image-div{
+    margin-left: 25%;
+    width: 50%;
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.first-flyer{
+    width: 80%;
+    display: inline-block;
+    height: auto;
+}
+
+.second-flyer{
+    width:50%;
+
+    display: inline-block;
+    height: auto;
+}
+
+
+.before-after{
+    width: 40%;
+    margin: 0;
+    display: inline-block;
+}
+.before-after-wis{
+      width: 54%;
+    margin: 0;
+    display: inline-block;
+}
+
+.payment{
+    margin-left: 25%;
+    width: 50%;
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 2%;
+}
+
+.video{
+    margin-top: 2%;
+}
+
+.wisdom-talk{
+    width: 57.6%;
+}
+
+.earpod{
+    width: 73%;
+}
+
+#static-buy-now{
+    background-color: rgb(30, 172, 18);
+    color: white;
+}
+#static-buy-now:active{
+    background-color: red;
+}
+
+
+
+@media only screen and (max-width: 600px){
+     .first-image-div{
+    margin-left: 25%;
+    width: 50%;
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+#static-buy-now{
+    background-color: rgb(30, 172, 18);
+    color: white;
+}
+#static-buy-now:active{
+    background-color: red;
+}
+
+
+.video{
+    margin-top: 2%;
+}
+
+.wisdom-talk{
+    width: 100%;
+}
+
+.earpod{
+    width: 75%;
+}
+.payment{
+    margin-left: 25%;
+    width: 50%;
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.video{
+    margin-top: 2%;
+}
+
+.before-after{
+    width: 40%;
+    margin: 0;
+    display: inline-block;
+}
+.before-after-wis{
+      width: 54%;
+    margin: 0;
+    display: inline-block;
+}
+}
+
+
+@media only screen and (min-width: 992x){
+     .first-image-div{
+    margin-left: 25%;
+    width: 50%;
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.video{
+    margin-top: 2%;
+}
+
+.wisdom-talk{
+    width: 57.6%;
+}
+#static-buy-now{
+    background-color: rgb(30, 172, 18);
+    color: white;
+}
+#static-buy-now:active{
+    background-color: red;
+}
+
+
+.earpod{
+    width: 73%;
+}
+.payment{
+    margin-left: 25%;
+    width: 50%;
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.before-after{
+    width: 40%;
+    margin: 0;
+    display: inline-block;
+}
+.before-after-wis{
+      width: 54%;
+    margin: 0;
+    display: inline-block;
+}
+}
+
+
+
